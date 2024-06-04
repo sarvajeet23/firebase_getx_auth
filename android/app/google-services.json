@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582548309108",
+    "project_id": "fir-getx-auth-641a5",
+    "storage_bucket": "fir-getx-auth-641a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582548309108:android:3088f32f1c7e0cfbc6bd21",
+        "android_client_info": {
+          "package_name": "com.ayush.firebase_getx_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582548309108-ga1rlltpt35cdc2kjqa914dlehvknap6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HQGssxpLTpDBZNSoG1zn5u0OtLvJqDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582548309108-ga1rlltpt35cdc2kjqa914dlehvknap6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
